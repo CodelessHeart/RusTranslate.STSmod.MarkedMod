@@ -1,0 +1,14 @@
+{
+"MarkedMod:ApplyMarkOnAttackedPower": {
+        "NAME": "Pin Point Defense",
+        "DESCRIPTIONS": ["Gian #b", " #yBlock whenever you apply Mark."]
+},
+"MarkedMod:GainBlockOnApplyMarkPower": {
+        "NAME": "Pin Point Counter",
+        "DESCRIPTIONS": ["Whenever an enemy attacks you, apply #b", " #yMark."]
+},
+"MarkedMod:GracefulMovementsPower": {
+        "NAME": "Грациозные движения",
+        "DESCRIPTIONS": ["В начале хода, положите #b", " #yИглу в руку.", " #yИглу в руку."]
+}
+}
