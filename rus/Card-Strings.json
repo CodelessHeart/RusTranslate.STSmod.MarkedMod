@@ -28,8 +28,8 @@
   },
   "MarkedMod:SlowDance": {
     "NAME": "Медленный танец",
-    "DESCRIPTION": "Неиграбельная. NL Когда взята, входите в стойку markedmod:Dance_of_Death и *Сжигается.",
-    "UPGRADE_DESCRIPTION": "Неиграбельная. NL Когда взята, входите в стойку markedmod:Dance_of_Death."
+    "DESCRIPTION": "Неиграбельная. NL Когда взята, входите в стойку Танец Смерти и *Сжигается.",
+    "UPGRADE_DESCRIPTION": "Неиграбельная. NL Когда взята, входите в стойку Танец Смерти."
   },
   "MarkedMod:NorthStar": {
     "NAME": "Северная звезда",
