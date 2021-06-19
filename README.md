@@ -1,4 +1,4 @@
-# RusTranslate.STSmod.MarkedMod
+# TranslatedRus.SlayTheSpire.MarkedMod
 Оригинальный мод https://steamcommunity.com/sharedfiles/filedetails/?id=2018148033
 ### Инструкция:
 
